@@ -78,5 +78,6 @@ Meanwhile, now all the input features are independent to each other.<br>
 <li>More advanced techniques such as Artificial Neural Network is not applied yet.</li>
 </ol>
 <h2 id="application-deployment">Application Deployment</h2>
-<p>I created the application with MATLAB, which can be used to predict the income of a policeman as long as the information (gender, race, year, job title and location) is input.</p>
+<p>I created the application with MATLAB, which can be used to predict the income of a policeman as long as the information (gender, race, year, job title and location) is input.<br>
+<img src="https://github.com/MemphisMeng/MPD-Payroll/blob/master/images/webApps.png" alt="enter image description here"></p>
 
