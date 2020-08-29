@@ -77,7 +77,7 @@ Meanwhile, now all the input features are independent to each other.<br>
 <li>The division of mine on the job titles are untested either, given the fact that the outliers in Officer and Others are much more than other counterparts;</li>
 <li>More advanced techniques such as Artificial Neural Network is not applied yet.</li>
 </ol>
-<h2 id="application-deployment">(Application Deployment)[https://memphis-meng.shinyapps.io/r_app/]</h2>
-<p>I created applications with MATLAB and R respectively, which can be used to predict the income of a policeman as long as the information (gender, race, year, job title and location) is input.<br>
+<h2 id="application-deployment"><a href="https://memphis-meng.shinyapps.io/r_app/">Application Deployment</a></h2>
+<p>I created the application with MATLAB, which can be used to predict the income of a policeman as long as the information (gender, race, year, job title and location) is input.<br>
 <img src="https://github.com/MemphisMeng/MPD-Payroll/blob/master/images/webApps.png" alt="enter image description here"></p>
 
