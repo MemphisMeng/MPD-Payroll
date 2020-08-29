@@ -1,0 +1,10 @@
+name: r_app
+title:
+username:
+account: memphis-meng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2721993
+bundleId: 3569109
+url: https://memphis-meng.shinyapps.io/r_app/
+when: 1598669399.86284
